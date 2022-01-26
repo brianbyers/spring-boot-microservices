@@ -1,4 +1,6 @@
 # Spring Boot MicroServices Template
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3a3a26c5-c56a-4dd0-ba67-fc3d5b481a06.svg?orgId=521549019486)](https://app.soluble.cloud/repos/details/github.com/brianbyers/spring-boot-microservices?orgId=521549019486)  
 This repository is an example of how to get Microservices going using Spring Boot, Spring Cloud, Spring OAuth 2 and Netflix OSS frameworks.
 
 # Table of Content
